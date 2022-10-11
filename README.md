@@ -1,4 +1,4 @@
-# ahl_community_shop
+# Community Shop Partnership Project
 
 ## Setup
 
