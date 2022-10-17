@@ -35,7 +35,7 @@ This will configure the development environment:
 **Step 3.** Activate the newly created conda environment and you're good to go!
 
 ```shell
-$ conda activate innovation_sweet_spots
+$ conda activate ahl_community_shop
 ```
 
 ## :handshake: Contributor guidelines
